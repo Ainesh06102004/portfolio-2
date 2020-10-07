@@ -1,0 +1,37 @@
+*{
+    
+    color :lightgrey;
+    /*border: solid;
+    border-color:rgb(255, 208, 1);*/
+    
+}
+li{
+    color:#FFD001;
+}
+
+.head{
+    background-color: #000000;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.mid{
+    background-color: #111010;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    
+}
+
+.images1{
+    flex-shrink:1;
+}
+
+.foot{
+    display: flex;
+    justify-content: flex-start;
+}
